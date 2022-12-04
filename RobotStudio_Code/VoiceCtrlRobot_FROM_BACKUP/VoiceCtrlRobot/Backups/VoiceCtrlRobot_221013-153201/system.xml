@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemProperties>
+  <SystemName>VoiceCtrlRobot</SystemName>
+  <SerialNo>VIRTUAL_USE</SerialNo>
+  <UsedMedia>
+    <Media path="C:\Users\minht\AppData\Local\ABB Industrial IT\Robotics IT\RobotWare\RobotWare_6.13.4007" name="RobotWare" version="6.13.4007">
+    </Media>
+  </UsedMedia>
+  <ControlModule>
+    <Option descr="RobotWare Base">
+    </Option>
+    <Option descr="English">
+    </Option>
+    <Option descr="616-1 PC Interface">
+    </Option>
+    <Option descr="623-1 Multitasking">
+    </Option>
+  </ControlModule>
+  <DriveModule>
+    <Name>Robot1</Name>
+    <Option descr="Drive System IRB 120/140/260/360/910SC/1200/1400/1520/1600/1660ID">
+    </Option>
+    <Option descr="ADU-790A in position X3">
+    </Option>
+    <Option descr="ADU-790A in position Y3">
+    </Option>
+    <Option descr="ADU-790A in position Z3">
+    </Option>
+    <Option descr="Axis Calibration">
+    </Option>
+    <Option descr="IRB 1200-5/0.9 Type B">
+    </Option>
+  </DriveModule>
+</SystemProperties>

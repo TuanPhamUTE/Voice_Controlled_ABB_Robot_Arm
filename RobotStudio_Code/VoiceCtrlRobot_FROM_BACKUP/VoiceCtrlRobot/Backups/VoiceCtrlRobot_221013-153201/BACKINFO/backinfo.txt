@@ -1,0 +1,45 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: C:\Users\minht\Desktop\VoiceCtrlRobot_FROM_BACKUP\VoiceCtrlRobot\Systems\TEMP\ab84ff1f-e227-4e61-8425-b55d5eeca2f9\backup.440426
+# 2022-10-13  15:32:01
+#
+>>SYSTEM_ID:
+VIRTUAL_USE
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.13.04.00
+
+  RobotWare Base
+  English
+  616-1 PC Interface
+  623-1 Multitasking
+  Drive System IRB 120/140/260/360/910SC/1200/1400/1520/1600/1660ID
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  Axis Calibration
+  IRB 1200-5/0.9 Type B
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB1,,)
+SYSMOD\user.sys @ 
+PROGMOD\Module1.mod @ 
+
+>>TASK2: (Server,,)
+SYSMOD\user.sys @ 
+PROGMOD\Server.mod @ 
+
+
+>>EOF:

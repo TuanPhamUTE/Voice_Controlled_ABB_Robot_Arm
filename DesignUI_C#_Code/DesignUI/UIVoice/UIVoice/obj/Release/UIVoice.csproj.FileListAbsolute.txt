@@ -1,0 +1,36 @@
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\bin\Release\UIVoice.exe.config
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\bin\Release\UIVoice.exe
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\bin\Release\UIVoice.pdb
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\bin\Release\FontAwesome.Sharp.dll
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\bin\Release\SuperSimpleTcp.dll
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.ABOUT.resources
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.Form1.resources
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.HELP.resources
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.HOME.resources
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.Properties.Resources.resources
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.csproj.GenerateResource.cache
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.csproj.CoreCompileInputs.cache
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.csproj.CopyComplete
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.exe
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.pdb
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.YUMI.resources
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.IBR1200.resources
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\bin\Release\UIVoice.exe.config
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\bin\Release\UIVoice.exe
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\bin\Release\UIVoice.pdb
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\bin\Release\FontAwesome.Sharp.dll
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\bin\Release\SuperSimpleTcp.dll
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.csproj.AssemblyReference.cache
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.ABOUT.resources
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.YUMI.resources
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.IBR1200.resources
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.Form1.resources
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.HELP.resources
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.HOME.resources
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.Properties.Resources.resources
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.csproj.GenerateResource.cache
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.csproj.CoreCompileInputs.cache
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.csproj.CopyComplete
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.exe
+C:\Users\minht\Downloads\DesignUI (1)\UIVoice\UIVoice\obj\Release\UIVoice.pdb
+C:\Users\minht\Desktop\DesignUI\UIVoice\UIVoice\obj\Release\UIVoice.csproj.AssemblyReference.cache
